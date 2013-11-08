@@ -1,6 +1,6 @@
 adapter: mysql2            
-host: 10.0.2.12                          # VM IP
-port: 33014                          # VM Port 
-database: a_a             # Database Name
-username: a3stfgw6skenu90l                 # User Name
-password: 'xghago0z8i7ep74uaj6phaz2tyvvilfg'                # Password
+host: 172.16.2.167                          # VM IP
+port: 38923                          # VM Port 
+database: t             # Database Name
+username: a8z5d291jl3pdx2h                 # User Name
+password: 'wz4ntbx3n7urzd1ey9lbtvh5lfmgzq69'                # Password
